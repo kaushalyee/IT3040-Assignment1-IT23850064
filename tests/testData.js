@@ -25,6 +25,7 @@ module.exports = [
     { id: 'Pos_Fun_0022', input: 'ee  URL eken giyaata passe ,oyaata form ekak fill karanna eyi,eeke NIC  number ekayi  password ekayi  gahanna' },
     { id: 'Pos_Fun_0023', input: 'iilaga exam eka  2025-04-06   patan  gannava kiyala kivvaa' },
     { id: 'Pos_Fun_0024', input: 'anee mata nindha         yanavaa ' },
+    // negative test cases
     { id: 'Neg_Fun_0001', input: 'meeka thamaa mama aluthin gaththa car eka,japan  valin import karee, naevee maaSha thunak giyaa geenna,api eeta passe  harbour ekata gihin thama aragena aavee' },
     { id: 'Neg_Fun_0002', input: 'heta man yanwa colombo ,aaya enne eelaga sathiye' },
     { id: 'Neg_Fun_0003', input: 'adoo mkda wenne' },
@@ -35,5 +36,6 @@ module.exports = [
     { id: 'Neg_Fun_0008', input: 'karunakrla apita ynna denna plwnda,apita gdk wela ghin tynne' },
     { id: 'Neg_Fun_0009', input: 'machn oya laga aluth phone cover ekak wadipura tynwa nm denwako' },
     { id: 'Neg_Fun_0010', input: 'mn carrot 2kg gannwa,adu krla denne nadda?' },
+    //UI test case
     { id: 'Pos_UI_0001', input: 'oyaage gedhara kohedha thiyenne' },
 ];
