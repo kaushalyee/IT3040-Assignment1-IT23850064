@@ -16,7 +16,7 @@ This repository contains comprehensive automated test cases for the SwiftTransla
 
 ## Project Structure
 ```
-├── tests/                  # Playwright test scripts
+├── tests/                 # Playwright test scripts
 ├── testData.js            # Test case input data
 ├── playwright.config.js   # Playwright configuration
 └── package.json           # Dependencies and scripts
@@ -72,4 +72,4 @@ The test suite includes comprehensive coverage across multiple scenarios:
 ---
 
 **Course:** IT3040 – IT Project Management  
-**Institution:** Sri Lanka Institute of Information Technology (SLIIT)
+
