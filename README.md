@@ -1,12 +1,12 @@
 # IT3040 Assignment 1 - Singlish Translator Automation Testing
 
 **Student Information**
-- **Name:** Kaushalye Manawasinghe
+- **Name:** N.D.K.G.D.K.B Manawasinghe
 - **Student ID:** IT23850064
 
 ## Project Overview
 
-This repository contains comprehensive automated test cases for the SwiftTranslator system, which translates Singlish text to Sinhala. The testing framework was developed using Playwright as part of the IT3040 – ITPM Assignment 1 coursework.
+This project tests the SwiftTranslator website (https://www.swifttranslator.com/) to check how accurately it converts Singlish text into Sinhala. I have used Playwright to automate the testing process and created 35 test cases covering different scenarios.
 
 ## Technologies Used
 
@@ -16,7 +16,7 @@ This repository contains comprehensive automated test cases for the SwiftTransla
 
 ## Project Structure
 ```
-├── tests/                 # Playwright test scripts
+├── tests/                  # Playwright test scripts
 ├── testData.js            # Test case input data
 ├── playwright.config.js   # Playwright configuration
 └── package.json           # Dependencies and scripts
@@ -26,7 +26,7 @@ This repository contains comprehensive automated test cases for the SwiftTransla
 
 ### Prerequisites
 
-Ensure you have Node.js installed on your system before proceeding.
+Make sure you have Node.js installed on your computer before proceeding.
 
 ### Installation
 
@@ -54,22 +54,12 @@ npx playwright show-report
 
 ## Test Coverage
 
-The test suite includes comprehensive coverage across multiple scenarios:
+The test suite includes 35 test cases covering multiple scenarios:
 
--  **24 Positive Functional Test Cases** - Validate expected system behavior
--  **10 Negative Functional Test Cases** - Verify error handling and edge cases
--  **1 UI Test Case** - Ensure user interface elements function correctly
+-  **24 Positive Functional Tests** - Validate correct Singlish to Sinhala conversion
+-  **10 Negative Functional Tests** - Verify error handling and edge cases
+-  **1 UI Test** - Ensure real-time output updates work properly
 
 **Total Test Cases:** 35
 
-## Features Tested
-
-- Singlish to Sinhala text translation
-- Input validation
-- Error handling and boundary conditions
-- User interface responsiveness
-
----
-
-**Course:** IT3040 – IT Project Management  
-
+**Module:** IT3040 – IT Project Management  
