@@ -3,7 +3,7 @@ import { defineConfig, devices } from '@playwright/test';
 
 export default defineConfig({
   testDir: './tests',
-  timeout: 90000, // 90 seconds per test - ADD THIS LINE
+  timeout: 90000, 
   fullyParallel: true,
   forbidOnly: !!process.env.CI,
   retries: process.env.CI ? 2 : 0,
@@ -11,9 +11,9 @@ export default defineConfig({
   reporter: 'html',
   
   use: {
-    headless: false, // ADD THIS - so you can see the browser
+    headless: false, 
     trace: 'on-first-retry',
-    actionTimeout: 15000, // ADD THIS - 15 seconds for each action
+    actionTimeout: 15000, 
   },
 
   projects: [
