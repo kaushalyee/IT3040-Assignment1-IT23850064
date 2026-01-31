@@ -11,7 +11,7 @@ module.exports = [
     { id: 'Pos_Fun_0008', input: 'adoo moko venne?' },
     { id: 'Pos_Fun_0009', input: 'mata ikmanata gedhara yanna oona' },
     { id: 'Pos_Fun_0010', input: 'uba kaeema ekak genaavadha?' },
-    { id: 'Pos_Fun_0011', input: 'dhaenmaheta edhdhi magee potha aran enna ,heta ee subject eka thiyanavaa,naeththan  mata liyanna venne paper ekka ,mathak karala potha bag ekata dhaaganna dhaenma' },
+    { id: 'Pos_Fun_0011', input: 'heta edhdhi magee potha aran enna ,heta ee subject eka thiyanavaa,naeththan  mata liyanna venne paper ekka ,mathak karala potha bag ekata dhaaganna dhaenma' },
     { id: 'Pos_Fun_0012', input: 'api heta apee aluth gedharata yanavaa,ubath enavadha' },
     { id: 'Pos_Fun_0013', input: 'kalin trip yanava kiyala polu tiyanna epaa machan' },
     { id: 'Pos_Fun_0014', input: 'mama heta 7.45 vedhdhi enava class ekata,ee vedhdhi ubath enna' },
