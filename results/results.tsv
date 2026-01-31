@@ -1,0 +1,35 @@
+TC_ID	Type	Input	ActualOutput	RunStatus	Screenshot
+Pos_Fun_0001	unknown	obata suba raathriyak veevaa!!	ඔබට සුබ රාත්‍රියක් වේවා!!	OK	Pos_Fun_0001.png
+Pos_Fun_0002	unknown	machan mata vathura oone	මචන් මට වතුර ඕනෙ	OK	Pos_Fun_0002.png
+Pos_Fun_0003	unknown	api passe kathaa karamu.	අපි පස්සෙ කතා කරමු.	OK	Pos_Fun_0003.png
+Pos_Fun_0004	unknown	next lecture eka kiiyatadha ?	next lecture එක කීයටද ?	OK	Pos_Fun_0004.png
+Pos_Fun_0005	unknown	api heta colombo yanavaa, oyath enavada ,api Galle Face yanna hithan inne,iita passe galle yanavaa,aaya enne dhavas thunakin ,udhenma pitath vena nisaa kalin kiyanna puluvannam leesi	අපි හෙට colombo යනවා, ඔයත් එනවඩ ,අපි Galle Face යන්න හිතන් ඉන්නේ,ඊට පස්සෙ galle යනවා,ආය එන්නෙ දවස් තුනකින් ,උදෙන්ම පිටත් වෙන නිසා කලින් කියන්න පුලුවන්නම් ලේසි	OK	Pos_Fun_0005.png
+Pos_Fun_0006	unknown	api heta set vemudha monava hari kanna	අපි හෙට සෙට් වෙමුද මොනව හරි කන්න	OK	Pos_Fun_0006.png
+Pos_Fun_0007	unknown	mama dhaen vaeda karanava.	මම දැන් වැඩ කරනව.	OK	Pos_Fun_0007.png
+Pos_Fun_0008	unknown	adoo moko venne?	අඩෝ මොකො වෙන්නෙ?	OK	Pos_Fun_0008.png
+Pos_Fun_0009	unknown	mata ikmanata gedhara yanna oona	මට ඉක්මනට ගෙදර යන්න ඕන	OK	Pos_Fun_0009.png
+Pos_Fun_0010	unknown	uba kaeema ekak genaavadha?	උබ කෑම එකක් ගෙනාවද?	OK	Pos_Fun_0010.png
+Pos_Fun_0011	unknown	heta edhdhi magee potha aran enna ,heta ee subject eka thiyanavaa,naeththan mata liyanna venne paper ekka ,mathak karala potha bag ekata dhaaganna dhaenma	හෙට එද්දි මගේ පොත අරන් එන්න ,හෙට ඒ subject එක තියනවා,නැත්තන් මට ලියන්න වෙන්නෙ paper එක්ක ,මතක් කරල පොත bag එකට දාගන්න දැන්ම	OK	Pos_Fun_0011.png
+Pos_Fun_0012	unknown	api heta apee aluth gedharata yanavaa,ubath enavadha	අපි හෙට අපේ අලුත් ගෙදරට යනවා,උබත් එනවද	OK	Pos_Fun_0012.png
+Pos_Fun_0013	unknown	kalin trip yanava kiyala polu tiyanna epaa machan	කලින් trip යනව කියල පොලු ටියන්න එපා මචන්	OK	Pos_Fun_0013.png
+Pos_Fun_0014	unknown	mama heta 7.45 vedhdhi enava class ekata,ee vedhdhi ubath enna	මම හෙට 7.45 වෙද්දි එනව class එකට,ඒ වෙද්දි උබත් එන්න	OK	Pos_Fun_0014.png
+Pos_Fun_0015	unknown	suba aluth avurudhdhak veevaa!!	සුබ අලුත් අවුරුද්දක් වේවා!!	OK	Pos_Fun_0015.png
+Pos_Fun_0016	unknown	adoo vaeda godak thiyanva ,enna vennae ban	අඩෝ වැඩ ගොඩක් තියන්ව ,එන්න වෙන්නැ බන්	OK	Pos_Fun_0016.png
+Pos_Fun_0017	unknown	karuNaakara poddak ida dhenna puluvandha?	කරුණාකර පොඩ්ඩක් ඉඩ දෙන්න පුලුවන්ද?	OK	Pos_Fun_0017.png
+Pos_Fun_0018	unknown	mata password reset karanna venava,eth OTP eka aave naene thaama	මට password reset කරන්න වෙනව,එත් OTP එක ආවෙ නැනෙ තාම	OK	Pos_Fun_0018.png
+Pos_Fun_0019	unknown	hari mama heta udhenma oyata genath dhennam ,baya venna epaa	හරි මම හෙට උදෙන්ම ඔයට ගෙනත් දෙන්නම් ,බය වෙන්න එපා	OK	Pos_Fun_0019.png
+Pos_Fun_0020	unknown	mage bara 80kg idhan 70kg vata adu kara gaththaa	mage බර 80kg ඉදන් 70kg වට අඩු කර ගත්තා	OK	Pos_Fun_0020.png
+Pos_Fun_0021	unknown	adha apita zoom class ekak thiyenne	අද අපිට zoom class එකක් තියෙන්නෙ	OK	Pos_Fun_0021.png
+Pos_Fun_0022	unknown	ee URL eken giyaata passe ,oyaata form ekak fill karanna eyi,eeke NIC number ekayi password ekayi gahanna	ඒ URL එකෙන් ගියාට පස්සෙ ,ඔයාට form එකක් fill කරන්න එයි,ඒකෙ NIC number එකයි password එකයි ගහන්න	OK	Pos_Fun_0022.png
+Pos_Fun_0023	unknown	iilaga exam eka 2025-04-06 patan gannava kiyala kivvaa	ඊලග exam එක 2025-04-06 පටන් ගන්නව කියල කිව්වා	OK	Pos_Fun_0023.png
+Pos_Fun_0024	unknown	anee mata nindha yanavaa	අනේ මට නින්ද යනවා	OK	Pos_Fun_0024.png
+Neg_Fun_0001	unknown	apita rae 12 venna kalin enna Github ekata upload karanna kiyala kivve	අපිට රැ 12 වෙන්න කලින් එන්න ඟිතුබ් එකට upload කරන්න කියල කිව්වෙ	OK	Neg_Fun_0001.png
+Neg_Fun_0002	unknown	apita waahana geenna dhenne naee	අපිට wආහන ගේන්න දෙන්නෙ නෑ	OK	Neg_Fun_0002.png
+Neg_Fun_0003	unknown	australia kiyanne godak hodha ratak	ඖස්ට්‍රලිඅ කියන්නෙ ගොඩක් හොද රටක්	OK	Neg_Fun_0003.png
+Neg_Fun_0004	unknown	man heta yanawa colombo	man හෙට යනwඅ colombo	OK	Neg_Fun_0004.png
+Neg_Fun_0005	unknown	magee rata Sri Lankawa	මගේ රට ස්‍රි ළන්කwඅ	OK	Neg_Fun_0005.png
+Neg_Fun_0006	unknown	mata pihinanna puluvan	මට පිහිනන්න පුලුවන්	OK	Neg_Fun_0006.png
+Neg_Fun_0007	unknown	api ethkota aluth Sony PlayStation 5 ekak gamu	අපි එත්කොට අලුත් Sony ඵ්ලය්ස්ටටිඔන් 5 එකක් ගමු	OK	Neg_Fun_0007.png
+Neg_Fun_0008	unknown	apita facebook ekee aluthin reel hadhanna puluvan option ekak thiyanava	අපිට facebook එකේ අලුතින් රේල් හදන්න පුලුවන් option එකක් තියනව	OK	Neg_Fun_0008.png
+Neg_Fun_0009	unknown	apee future eka Digitalize velaa ivarayi	අපේ future එක ඪිගිටලිzඑ වෙලා ඉවරයි	OK	Neg_Fun_0009.png
+Neg_Fun_0010	unknown	heta Stoichiometry lesson eka karanavaa kivve	හෙට ස්ටොඉචිඔමෙට්‍රය් lesson එක කරනවා කිව්වෙ	OK	Neg_Fun_0010.png
